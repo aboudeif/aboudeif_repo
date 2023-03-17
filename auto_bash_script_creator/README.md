@@ -7,18 +7,33 @@
 ```
 > chmode 744 automatic upload
 ```
+
 4- Edit `automatic` and change work directory
+
 ```
 > vi automatic
 ```
+
 5- Edit `upload` and change token and branch name if necessary
+
 ```
 > vi upload
 ```
-6- Start script
+
+6- Install expect
+
+```
+> sudo apt install expect
+```
+
+7- Start script
+
 ```
 > ./automatic
 ```
-7- Enter file name
+
+8- Enter file name
+
 8- Enter script line
+
 9- You are done!
