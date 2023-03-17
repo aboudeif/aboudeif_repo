@@ -9,9 +9,13 @@
 > vi automatic
 ```
 5- Edit `upload` and change token and branch name if necessary
+```
 > vi upload
+```
 6- Start script
+```
 > ./automatic
+```
 7- Enter file name
 8- Enter script line
 9- You are done!
