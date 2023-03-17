@@ -1,4 +1,4 @@
-1- Download the two files `automatic` and `upload`
+1- Download the two files `automatic` and `upload` on your machine
 2- Move files to your local repository root file
 3- Change files premissions to executble
 ```
